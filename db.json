@@ -7,7 +7,7 @@
         "gender": "M",
         "email": "drstrange@marvel.com",
         "password": "$2b$10$eWUUn0pa93FvCflMfAoOi.pia5mX0XZo3vFIseZApqdIpjURSUpJO",
-        "role": "CUSTOMER",
+        "role": "ADMIN",
         "createdAt": 1672949755981,
         "updatedAt": 1672949755981
       },
