@@ -54,5 +54,5 @@ server.use(router)
 
 // Levantamos el servidor
 server.listen(PORT, () => {
-  console.log('JSON Server is running on http://localhost:' + PORT)
+  console.log('🚀 JSON Server is running on: http://localhost:' + PORT)
 })
